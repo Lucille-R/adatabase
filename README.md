@@ -6,6 +6,8 @@ L'association fonctionne avec deux salariées et une trentaine de bénévoles. E
 
 
 ## 📝 Description
+*Projet réalisé dans le cadre de la formation Concepteur Développeur d'Applications à Ada Tech School.*
+
 Ce projet consiste à concevoir et implémenter la base de données relationnelle de La Remise.  
 
 Le travail suit quatre phases : recensement des données et décisions de conception, schéma entité-association, passage au schéma relationnel, puis implémentation SQL (migrations, jeu de données, requêtes).  
@@ -103,10 +105,10 @@ Ce projet suit une organisation en branches inspirée de Git Flow :
 - `dev` : branche d'intégration des fonctionnalités
 - `feature/nom-de-la-feature` : une branche par fonctionnalité développée
 
-## 👤 Auteur
+## 👤 Auteure
 
-- **Lucille** — Étudiante chez Ada Tech School
+- **Lucille Richard** - Étudiante chez Ada Tech School
 
 ## 📄 Licence
 
-Projet réalisé dans un cadre pédagogique — Ada Tech School.
+Projet réalisé dans un cadre pédagogique - Ada Tech School.
