@@ -1,6 +1,8 @@
-# Ressourcerie La Remise
+# 🗄️ Adatabase
 
-La Remise est une ressourcerie associative. Le principe : au lieu de partir à la déchetterie, les objets dont les gens n'ont plus l'usage sont collectés, triés, réparés quand c'est possible, puis revendus à petit prix dans la boutique de l'association. Ce qui ne peut pas être sauvé part en filière de recyclage.
+Base de données de La Remise, une ressourcerie associative.  
+
+Le principe : au lieu de partir à la déchetterie, les objets dont les gens n'ont plus l'usage sont collectés, triés, réparés quand c'est possible, puis revendus à petit prix dans la boutique de l'association. Ce qui ne peut pas être sauvé part en filière de recyclage.
 
 L'association fonctionne avec deux salariées et une trentaine de bénévoles. Elle organise aussi des ateliers ouverts au public : réparer son grille-pain, retaper un meuble, apprendre à recoudre.
 
@@ -41,7 +43,7 @@ Cette base sert de socle au projet fullstack AdaRemise, développé ultérieurem
 ## 📂 Structure du projet
 
 ```
-la-remise/
+adatabase/
   ├── README.md
   ├── docker-compose.yml
   ├── conception/
@@ -59,12 +61,12 @@ la-remise/
 ## 🚀 Installation
 1. Cloner le repository :
    ```bash
-   git clone git@github.com:Lucille-R/la-remise.git
+   git clone https://github.com/Lucille-R/adatabase.git
    ```
 
 2. Se rendre dans le dossier du projet :
    ```bash
-   cd la-remise
+   cd adatabase
    ```
 
 3. Lancer le conteneur PostgreSQL :
